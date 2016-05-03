@@ -2,22 +2,24 @@
 
 ## Orden del día 23 de abril de 2016 17:42
 
-1. ¿Qué es inversal?
-	1.1 Organización sin ánimo de lucro
-	1.2	Hackerspace
+###¿Qué es inversal?
+1. Organización sin ánimo de lucro
+1. Hackerspace
+    
     `Los hackerspace son lugares en donde un grupo de personas se reúne para imaginar, crear e innovar. Allí comparten sus conocimientos para fabricar cosas que solos habrían sido incapaces.`
 
-2. Constitución asociación
-	2.1 Información [Junta de andalucia](http://www.juntadeandalucia.es/temas/participacion/asociaciones/asociaciones.html)
-	2.2 Estatutos (@alfredo), discutir por slack (pendiente)
-	2.3 Documento
-	2.4 Votaciones para presidente, tesorero, vocal. (pendiente)
-	2.5 Donaciones
-	| nombre | dinero |
+
+
+1. Constitución asociación
+1. Información [Junta de andalucia](http://www.juntadeandalucia.es/temas/participacion/asociaciones/asociaciones.html)
+1. Estatutos (@alfredo), discutir por slack (pendiente)
+1. Votaciones para presidente, tesorero, vocal. (pendiente)
+1. Donaciones
+| nombre | cuantía |
 |--------|--------|
-|@jorge.mielgo        | 1,400 euros       |
-| @wimel | 90 euros |
-| @melozo & @zio | 40 euros |
+|@jorge.mielgo        | 1,400 eu       |
+| @wimel | 90 eu |
+| @melozo & @zio | 40 eu |
 
 
 
