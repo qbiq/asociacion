@@ -9,7 +9,7 @@
     `Los hackerspace son lugares en donde un grupo de personas se reúne para imaginar, crear e innovar. Allí comparten sus conocimientos para fabricar cosas que solos habrían sido incapaces.`
 
 
-
+###Asociación/Estatutos/Donaciones
 1. Constitución asociación
 1. Información [Junta de andalucia](http://www.juntadeandalucia.es/temas/participacion/asociaciones/asociaciones.html)
 1. Estatutos (@alfredo), discutir por slack (pendiente)
@@ -54,3 +54,4 @@ Temas a tratar en la reunión (marcados aquellos que se trataron)
 3. Electricidad, Joaquin Rus
 4. Software de gestión, aunque no votado @javi se ofrece
 5. Información sobre proyecto, licencia de apertura, Melo
+6. Pintura, Zio
